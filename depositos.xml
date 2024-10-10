@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaDeposito>
+    <deposito>
+        <altura>20.5</altura>
+        <diametro>10.4</diametro>
+        <idDeposito>1</idDeposito>
+    </deposito>
+    <deposito>
+        <altura>15.5</altura>
+        <diametro>11.0</diametro>
+        <idDeposito>2</idDeposito>
+    </deposito>
+    <deposito>
+        <altura>21.2</altura>
+        <diametro>9.6</diametro>
+        <idDeposito>3</idDeposito>
+    </deposito>
+</listaDeposito>
